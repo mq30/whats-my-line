@@ -1,4 +1,5 @@
-![image from "what's my line" tv show](./img/whats-my-line.jpg)
+##### Atom and all repositories under Atom will be archived on December 15, 2022. Learn more in our [official announcement](https://github.blog/2022-06-08-sunsetting-atom/)
+ ![image from "what's my line" tv show](./img/whats-my-line.jpg)
 
 `whats-my-line` is a handy library for displaying GitHub comments within a text editor. It handles calculations to go from diff position (returned from the GitHub API), to file location. It can also calculate adjustments to these locations based on local working directory changes.
 
